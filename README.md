@@ -1,4 +1,4 @@
-# Preview link: https://github.com/sid3github/habot-assignment
+# Preview link: https://habot-assignment-alpha.vercel.app/
 
 # Getting Started with Create React App
 
